@@ -7,7 +7,7 @@ header("Content-Type: application/json; charset=UTF-8");
 // include database
 include_once 'mongodb_config.php';
 
-$dbname = 'roytuts';
+$dbname = 'vdbname';
 $collection = 'users';
 
 
